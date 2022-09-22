@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment android:id="@+id/navigation_home"
+        android:name="com.example.collageapp.ui.home.home_fragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home_fragment"/>
+    <fragment android:id="@+id/navigation_notice"
+        android:name="com.example.collageapp.ui.notice.notice_fragment"
+        android:label="Notice"
+        tools:layout="@layout/fragment_notice_fragment"/>
+    <fragment android:id="@+id/navigation_faculty"
+        android:name="com.example.collageapp.ui.faculty.faculty_fragment"
+        android:label="Faculty"
+        tools:layout="@layout/fragment_faculty_fragment"/>
+    <fragment android:id="@+id/navigation_gallery"
+        android:name="com.example.collageapp.ui.gallery.gallery_fragment"
+        android:label="Gallery"
+        tools:layout="@layout/fragment_gallery_fragment"/>
+    <fragment android:id="@+id/navigation_about"
+        android:name="com.example.collageapp.ui.about.about_fragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about_fragment"/>
+</navigation>

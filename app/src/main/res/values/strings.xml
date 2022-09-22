@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CollageApp</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutcolg">Motilal Nehru National Institute of Technology Allahabad (MNNIT or NIT Allahabad), formerly Motilal Nehru Regional Engineering College (MNREC), is one of the 31 National Institutes of Technology, located in Allahabad (Prayagraj), Uttar Pradesh, India. It is one among the top NITs in the country, and like the rest of them, classified as an Institute of National Importance. The college has the distinction of being the first in the country to start an undergraduate programme in Computer Science and Engineering, in 1976–77.</string>
+    <string name="mnnit">"Address: Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211004
+        Phone: 0532 254 5404 "</string>
+    <string name="colgname">Motilal Nehru National Institute of Technology</string>
+    <string name="envor">Green Environment</string>
+    <string name="aboutcomputerscience">" Computer Science is the study of computers and computational systems. Unlike electrical and computer engineers, computer scientists deal mostly with software and software systems; this includes their theory, design, development, and application."</string>
+    <string name="aboutmechanical">Mechanical engineers design power-producing machines, such as electric generators, internal combustion engines, and steam and gas turbines, as well as power-using machines, such as refrigeration and air-conditioning systems. Mechanical engineers design other machines inside buildings, such as elevators and escalators.</string>
+    <string name="colgimg">https://firebasestorage.googleapis.com/v0/b/mnnit-4581c.appspot.com/o/gallery%2F%5BB%40e4262edjpg?alt=media&amp;token=90e78954-736f-4fcb-8e0b-9a9de927120c</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+</resources>

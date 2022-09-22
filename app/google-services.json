@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "499381167771",
+    "firebase_url": "https://mnnit-4581c-default-rtdb.firebaseio.com",
+    "project_id": "mnnit-4581c",
+    "storage_bucket": "mnnit-4581c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499381167771:android:259576755124161793c83e",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499381167771-milgntnqheri9rp6rg4ln6i0g9tmh8m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE2JN3AA222Ma0ciHzFP5uU917U-pf3uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499381167771-milgntnqheri9rp6rg4ln6i0g9tmh8m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499381167771:android:ded7a1bc3750832f93c83e",
+        "android_client_info": {
+          "package_name": "com.example.collageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499381167771-milgntnqheri9rp6rg4ln6i0g9tmh8m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE2JN3AA222Ma0ciHzFP5uU917U-pf3uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499381167771-milgntnqheri9rp6rg4ln6i0g9tmh8m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
